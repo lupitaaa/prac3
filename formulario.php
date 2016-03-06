@@ -1,0 +1,38 @@
+<html>
+ <body>
+  <?php
+   $personas=array(
+   "0"=>array(
+    "id"=>"12",
+    "nom"=>"Jorge",
+    "ap"=>"Cruz",
+    "am"=>"Saldaña"
+    ),
+   "1"=>array(
+    "id"=>"123",
+    "nom"=>"Juan",
+    "ap"=>"Gomez",
+    "am"=>"Barajas"
+    ),
+   "2"=>array(
+    "id"=>"1234",
+    "nom"=>"Lucia",
+    "ap"=>"Nuñez",
+    "am"=>"Soto"
+    ),
+   "3"=>array(
+    "id"=>"12345",
+    "nom"=>"maria",
+    "ap"=>"Hernandez",
+    "am"=>"Guzman"
+    ),
+   "4"=>array(
+    "id"=>"123456",
+    "nom"=>"sofia",
+    "ap"=>"Corona",
+    "am"=>"Lopez"
+    )
+);
+  ?>
+ </body>
+</html>
